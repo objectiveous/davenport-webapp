@@ -1,0 +1,13 @@
+{
+  "env": {
+    "default": {
+      "db": "http://robevans:robevans@127.0.0.1:5984/cushion-tickets"
+    },
+    "dev": {
+      "db": "http://robevans:robevans@127.0.0.1:5984/cushion-tickets"
+    },
+    "production": {
+      "db": "http://robevans:robevans@127.0.0.1:5984/cushion-tickets"
+    }
+  }
+}
